@@ -58,16 +58,16 @@ Kursuse lõpetajad suudavad:
 
 ## Ajakava
 
-| Kuupäev    | Aeg         | Teema                                                                    | Koolitajad                | Koht             |
-| ---------- | ----------- | ------------------------------------------------------------------------ | ------------------------- | ---------------- |
-| 10.02.2026 | 10:00-15:30 | Veebikeskkonna ja kasutajakogemuse kavandamise alused                    | Laura Hein, Martti Raavel | Teams online     |
-| 17.02.2026 | 10:00-15:30 | Kasutajakeskse WordPress-veebilehe kavandamine ja ülesehitus             | Laura Hein, Martti Raavel | Haapsalu kolledž |
-| 03.03.2026 | 10:00-15:30 | WordPress-veebilehe struktuur ja prototüüpimine                          | Laura Hein, Martti Raavel | Teams online     |
-| 10.03.2026 | 10:00-15:30 | WordPress-i kujunduse ja veebidisaini põhitõed                           | Laura Hein, Martti Raavel | Haapsalu kolledž |
-| 17.03.2026 | 10:00-15:30 | WordPress-i veebilehe visuaalne identiteet                               | Laura Hein, Martti Raavel | Teams online     |
-| 24.03.2026 | 10:00-15:30 | Praktiline veebilehe arendus: pluginad, tööriistad ja analüütika         | Laura Hein, Martti Raavel | Haapsalu kolledž |
-| 31.03.2026 | 10:00-15:30 | Veebilehe lansseerimine ja hooldus: ligipääsetavus, jagamine ja varundus | Laura Hein, Martti Raavel | Teams online     |
-| 07.04.2026 | 10:00-15:30 | Testimine, tagasiside ja kogemusest õppimine                             | Laura Hein, Martti Raavel | Haapsalu kolledž |
+| Kuupäev    | Aeg         | Teema                                                                                              | Koolitajad                | Koht             |
+| ---------- | ----------- | -------------------------------------------------------------------------------------------------- | ------------------------- | ---------------- |
+| 10.02.2026 | 10:00-15:30 | [Veebikeskkonna ja kasutajakogemuse kavandamise alused](kohtumised/esimene.md)                     | Laura Hein, Martti Raavel | Teams online     |
+| 17.02.2026 | 10:00-15:30 | [Kasutajakeskse WordPress-veebilehe kavandamine ja ülesehitus](kohtumised/teine.md)                | Laura Hein, Martti Raavel | Haapsalu kolledž |
+| 03.03.2026 | 10:00-15:30 | [WordPress-veebilehe struktuur ja prototüüpimine](kohtumised/kolmas.md)                            | Laura Hein, Martti Raavel | Teams online     |
+| 10.03.2026 | 10:00-15:30 | [WordPress-i kujunduse ja veebidisaini põhitõed](kohtumised/neljas.md)                             | Laura Hein, Martti Raavel | Haapsalu kolledž |
+| 17.03.2026 | 10:00-15:30 | [WordPress-i veebilehe visuaalne identiteet](kohtumised/viies.md)                                  | Laura Hein, Martti Raavel | Teams online     |
+| 24.03.2026 | 10:00-15:30 | [Praktiline veebilehe arendus: pluginad, tööriistad ja analüütika](kohtumised/kuues.md)            | Laura Hein, Martti Raavel | Haapsalu kolledž |
+| 31.03.2026 | 10:00-15:30 | [Veebilehe lansseerimine ja hooldus: ligipääsetavus, jagamine ja varundus](kohtumised/seitsmes.md) | Laura Hein, Martti Raavel | Teams online     |
+| 07.04.2026 | 10:00-15:30 | [Testimine, tagasiside ja kogemusest õppimine](kohtumised/kaheksas.md)                             | Laura Hein, Martti Raavel | Haapsalu kolledž |
 
 ## Korraldaja
 
