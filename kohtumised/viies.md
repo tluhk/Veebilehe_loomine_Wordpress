@@ -1,0 +1,1 @@
+# WordPressi veebilehe visuaalne identiteet
