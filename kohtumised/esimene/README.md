@@ -32,4 +32,4 @@
 ## Wordpressi arenduskeskkond oma arvutis
 
 - [Juhend, kuidas WP oma arvutis Dockeri abil tööle saab](../teemad/WPDockeris/about.md)
-- [Video Wordpressi arenduskeskkonna seadistamisest](https://www.youtube.com/watch?v=Zi7altTtrbU&list=PLlK9rYhRc6dswXpiCpzaqaMHrMEZuGGh-&index=5) . See video on pisut vananenud ja peab vaatama eelnevat juhendit selle kohta, milline on see seadistuste faili sisu ja mis käsuga see arenduskeskkond tööle läheb.
+- [Video Wordpressi arenduskeskkonna seadistamisest](https://www.youtube.com/watch?v=Zi7altTtrbU&list=PLlK9rYhRc6dswXpiCpzaqaMHrMEZuGGh-&index=5). See video on pisut vananenud ja peab vaatama eelnevat juhendit selle kohta, milline on see seadistuste faili sisu ja mis käsuga see arenduskeskkond tööle läheb.
