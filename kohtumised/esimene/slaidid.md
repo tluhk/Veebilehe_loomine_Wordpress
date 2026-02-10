@@ -25,6 +25,10 @@ Laura Hein, Martti Raavel
 
 ## Mis on internet?
 
+---
+
+## Mis on internet?
+
 Arvutivõrkude võrkude võrk
 
 - Arvutivõrgud
@@ -36,9 +40,71 @@ Arvutivõrkude võrkude võrk
 
 ---
 
-# Mis on veebileht?
+## Võrkude võrk
 
-Veebileht on kogum faile, mis on üldjuhul kättesaadavad internetis ühe konkreetse domeeni (näiteks *www.tlu.ee*) all. Need failid võivad sisaldada **teksti**, **pilte**, **videoid**, **helifaile** ja muud meediat, samuti **koodi**, mis määrab, kuidas need elemendid kasutajale esitatakse. Veebilehti näidatakse kasutajale veebilehitseja abil, mis tõlgendab veebilehe koodi ja kuvab selle sisu kasutajaliideses.
+![Network](network.png)
+
+[Allikas](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work)
+
+---
+
+## Kliendid ja serverid
+
+![Client-Server](client-server.png)
+
+---
+
+## Kuidas arvuti teab, kus veebileht asub?
+
+---
+
+## Kuidas arvuti teab, kus veebileht asub?
+
+- Iga veebileht on hostitud serveris, millel on unikaalne IP-aadress.
+- Domeeninimed (nagu www.tlu.ee) on kasutajasõbralikud aadressid, mis suunavad kasutajad õigesse serverisse.
+- DNS (Domain Name System) on süsteem, mis tõlgib domeeninimed IP-aadressideks, võimaldades veebilehitsejatel leida ja ühenduda õige serveriga, kus veebileht asub.
+
+---
+
+## Domain Name System (DNS)
+
+![width:800](dns.png)
+
+[Allikas](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work)
+
+---
+
+## Mis siis tegelikult toimub?
+
+1. Veebilehitseja pöördub DNS-serveri poole ja leiab sealt selle serveri tegeliku aadressi, kus veebileht asub.
+
+2. Veebilehitseja saadab serverile HTTP-päringu, paludes saata veebilehe koopia kliendile. See sõnum ja kõik muud kliendi ning serveri vahel vahetatavad andmed edastatakse teie internetiühenduse kaudu, kasutades TCP/IP protokolli.
+
+3. Kui server kliendi päringu heaks kiidab, saadab see kliendile vastuse "200 OK", mis tähendab: "Loomulikult võid sa seda veebilehte vaadata! Siin see on". Seejärel hakkab server veebilehe faile veebilehitsejale saatma väikeste osade kaupa, mida nimetatakse pakettideks.
+
+4. Veebilehitseja paneb need väikesed osad kokku terviklikuks veebileheks ja kuvab seda teile.
+
+---
+
+## Veebilehe laadimine
+
+![height:470](dns2.png)
+
+[Allikas](https://www.geeksforgeeks.org/computer-networks/web-pages/)
+
+---
+
+## Mis on veebileht?
+
+---
+
+## Mis on veebileht?
+
+Veebileht on kogum faile, mis on üldjuhul kättesaadavad internetis ühe konkreetse aadressi (näiteks *www.tlu.ee*) alt. Need failid võivad sisaldada **teksti**, **pilte**, **videoid**, **helifaile** ja muud meediat, samuti **koodi**, mis määrab, kuidas need elemendid kasutajale esitatakse. Veebilehti näidatakse kasutajale veebilehitseja abil, mis tõlgendab veebilehe koodi ja kuvab selle sisu kasutajaliideses.
+
+---
+
+## Milliseid tehnoloogiaid veebilehed kasutavad?
 
 ---
 
@@ -46,7 +112,30 @@ Veebileht on kogum faile, mis on üldjuhul kättesaadavad internetis ühe konkre
 
 HTML (HyperText Markup Language) on märgendikeel, mida kasutatakse veebilehe ja selle sisu struktureerimiseks.
 
-HTML määrab veebilehe sisu struktuuri.
+HTML-i abil saab määratleda, millised osad veebilehel on pealkirjad, lõigud, pildid, lingid ja muud elemendid. HTML-i kasutatakse veebilehtede loomisel, et anda neile struktuur ja sisu.
+
+---
+
+## HTML-i näide
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Minu esimene veebileht</title>
+  </head>
+  <body>
+    <h1>Tere tulemast minu veebilehele!</h1>
+    <p>See on minu esimene veebileht, mis on loodud HTML-iabil.</p>
+  </body>
+</html>
+```
+
+---
+
+## HTML-i näide veebilehitsejas
+
+![height:500](index.png)
 
 ---
 
@@ -56,9 +145,49 @@ Põhimõtteliselt on tegemist keelega, mis kirjeldab seda, kuidas veebileht väl
 
 ---
 
+## CSS-i näide
+
+```css
+body {
+  background-color: lightblue;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+```
+
+---
+
+## CSS-i näide veebilehitsejas
+
+![height:450](CSS.png)
+
+---
+
 ## Javascript
 
-![Kook](./cake.png)
+Javascript on programmeerimiskeel, mida kasutatakse veebilehtedel dünaamilise ja interaktiivse sisu loomiseks. See võimaldab arendajatel luua funktsioone, mis reageerivad kasutaja tegevustele, nagu klõpsud, hiireliigutused ja klaviatuurisissestused.
+
+---
+
+## Veebilehe tehnoloogiad
+
+![height:500](web-technologies.png)
+
+[Allikas](https://www.linkedin.com/posts/caguilar0_html-css-javascript-whats-the-difference-activity-7158905947543773184-c2gG/)
+
+---
+
+## Staatiline vs dünaamiline veebileht
+
+![height:450](staticvsdynamic.png)
+
+[Allikas](https://www.smooth-step.com/web-design/dynamic-websites)
 
 ---
 

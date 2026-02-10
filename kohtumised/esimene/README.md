@@ -2,7 +2,7 @@
 
 [Esimese kohtumise slaidid (Laura)](https://docs.google.com/presentation/d/14SBEEiUYR_cwMWTOBdnrNiEG7W0O3-VEl0KmRu_Nerg/edit?slide=id.gcb4a41b3d7_0_245#slide=id.gcb4a41b3d7_0_245)
 
-[Esimese kohtumise slaidid (Martti)](./slaidid.md)
+[Esimese kohtumise slaidid (Martti)](./slaidid.pdf)
 
 [Google Drive kaust](https://drive.google.com/drive/folders/1IYewYmUa2D0hySiBltMfjPRUuPSjY3dl?usp=sharing)
 
