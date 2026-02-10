@@ -13,7 +13,7 @@
   - Mida me ei tee?
   - Ajad ja kokkusaamised
   - Tutvumisring
-- Lähteülesanne, selle eesmärk ja sihtrühm
+- Briif, ehk lähteülesanne, selle eesmärk ja sihtrühm
   - [Lähteülesande mall - tehke sellest oma koopia](https://docs.google.com/document/d/1oBPANZUh_7OopLiGAvMskthWwaw_dUIl-MOMmGTfbDI/edit?usp=sharing)
 - Kasutajakogemus ja kasutajakogemuse disaini põhimõtted
 - Persoona, stsenaarium, kasutajateekond
