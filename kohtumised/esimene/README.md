@@ -6,7 +6,7 @@
 
 ## Muud ressursid
 
-- [Google Drive kaust](https://drive.google.com/drive/folders/1IYewYmUa2D0hySiBltMfjPRUuPSjY3dl?usp=sharing)
+- [Google Drive kaust](https://drive.google.com/drive/folders/1IYewYmUa2D0hySiBltMfjPRUuPSjY3dl?usp=sharing{:target="_blank"})
 - [UX-tööriistade komplekt](https://ux.hk.tlu.ee/)
 
 ## Teemad
