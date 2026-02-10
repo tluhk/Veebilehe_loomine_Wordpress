@@ -53,8 +53,8 @@ Kursuse lõpetajad suudavad:
 
 ## Koolitajad
 
-- **Laura Hein**
-- **Martti Raavel**
+- **Laura Hein**, email: <lhein@tlu.ee>
+- **Martti Raavel**, email: <mrt@tlu.ee>
 
 ## Ajakava
 
