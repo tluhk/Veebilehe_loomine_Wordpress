@@ -58,16 +58,24 @@ Kursuse lõpetajad suudavad:
 
 ## Ajakava
 
-| Kuupäev    | Aeg         | Teema                                                                                                     | Koolitajad                | Koht             |
-| ---------- | ----------- | --------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------- |
-| 10.02.2026 | 10:00-15:30 | [Veebikeskkonna ja kasutajakogemuse kavandamise alused](kohtumised/esimene/README.md)                     | Laura Hein, Martti Raavel | Teams online     |
-| 17.02.2026 | 10:00-15:30 | [Kasutajakeskse WordPress-veebilehe kavandamine ja ülesehitus](kohtumised/teine/README.md)                | Laura Hein, Martti Raavel | Haapsalu kolledž |
-| 03.03.2026 | 10:00-15:30 | [WordPress-veebilehe struktuur ja prototüüpimine](kohtumised/kolmas/README.md)                            | Laura Hein, Martti Raavel | Teams online     |
-| 10.03.2026 | 10:00-15:30 | [WordPress-i kujunduse ja veebidisaini põhitõed](kohtumised/neljas/README.md)                             | Laura Hein, Martti Raavel | Haapsalu kolledž |
-| 17.03.2026 | 10:00-15:30 | [WordPress-i veebilehe visuaalne identiteet](kohtumised/viies/README.md)                                  | Laura Hein, Martti Raavel | Teams online     |
-| 24.03.2026 | 10:00-15:30 | [Praktiline veebilehe arendus: pluginad, tööriistad ja analüütika](kohtumised/kuues/README.md)            | Laura Hein, Martti Raavel | Haapsalu kolledž |
-| 31.03.2026 | 10:00-15:30 | [Veebilehe lansseerimine ja hooldus: ligipääsetavus, jagamine ja varundus](kohtumised/seitsmes/README.md) | Laura Hein, Martti Raavel | Teams online     |
-| 07.04.2026 | 10:00-15:30 | [Testimine, tagasiside ja kogemusest õppimine](kohtumised/kaheksas/README.md)                             | Laura Hein, Martti Raavel | Haapsalu kolledž |
+| Kuupäev    | Aeg         | Teema                                                                                                     | Koolitajad                | Koht                               |
+| ---------- | ----------- | --------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------------- |
+| 10.02.2026 | 10:00-15:30 | [Veebikeskkonna ja kasutajakogemuse kavandamise alused](kohtumised/esimene/README.md)                     | Laura Hein, Martti Raavel | Teams online                       |
+| 17.02.2026 | 10:00-15:30 | [Kasutajakeskse WordPress-veebilehe kavandamine ja ülesehitus](kohtumised/teine/README.md)                | Laura Hein, Martti Raavel | Haapsalu kolledž                   |
+| 03.03.2026 | 10:00-15:30 | [WordPress-veebilehe struktuur ja prototüüpimine](kohtumised/kolmas/README.md)                            | Laura Hein, Martti Raavel | Teams online                       |
+| 10.03.2026 | 10:00-15:30 | [WordPress-i kujunduse ja veebidisaini põhitõed](kohtumised/neljas/README.md)                             | Laura Hein, Martti Raavel | Haapsalu kolledž                   |
+| 17.03.2026 | 10:00-15:30 | [WordPress-i veebilehe visuaalne identiteet](kohtumised/viies/README.md)                                  | Laura Hein, Martti Raavel | Teams online                       |
+| 23.03.2026 | 10:00-15:30 | [Praktiline veebilehe arendus: pluginad, tööriistad ja analüütika](kohtumised/kuues/README.md)            | Laura Hein, Martti Raavel | Haapsalu kolledž, Teams, salvestus |
+| 31.03.2026 | 10:00-15:30 | [Veebilehe lansseerimine ja hooldus: ligipääsetavus, jagamine ja varundus](kohtumised/seitsmes/README.md) | Laura Hein, Martti Raavel | Teams online                       |
+| 07.04.2026 | 10:00-15:30 | [Testimine, tagasiside ja kogemusest õppimine](kohtumised/kaheksas/README.md)                             | Laura Hein, Martti Raavel | Haapsalu kolledž                   |
+
+> [!NOTE]
+>
+> Online kohtumistel teeme pausi pikkusega **30 minutit, umbes 12:30 - 13:00**.
+>
+> Füüsilistel kokkusaamistel teeme tunnise pausi umbes **12:00 - 13:00**, mille jooksul on võimalik süüa kaasa võetud lõunat või käia söömas lähedalasuvates söögikohtades.
+>
+> Koolis on tasuline kohvi- ja snäkimasin, kust on võimalik osta kohvi, vett ja väikeseid suupisteid.
 
 ## Korraldaja
 
@@ -82,4 +90,4 @@ Kursuse lõpetajad suudavad:
 - Registreerimine on lõppenud
 - Koolitusel osalemise tingimus: vähemalt 44 tundi osalemine 52st
 - Koolituse katkestamisel on Tallinna Ülikoolil õigus nõuda osalejalt tasu 671 eurot + käibemaks
-- Minimum osalejate arv: 17
+- Miinimum osalejate arv: 17
