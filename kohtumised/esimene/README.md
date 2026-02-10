@@ -9,6 +9,7 @@
 - [Google Drive kaust](https://drive.google.com/drive/folders/1IYewYmUa2D0hySiBltMfjPRUuPSjY3dl?usp=sharing)
 - [UX-tööriistade komplekt](https://ux.hk.tlu.ee/)
 - [This person does not exists pildigeneraator](https://this-person-does-not-exist.com/en)
+- [Tasuta majutusteenus https://byet.host/](https://byet.host/)
 
 ## Teemad
 
