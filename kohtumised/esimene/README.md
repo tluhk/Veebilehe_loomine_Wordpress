@@ -4,7 +4,10 @@
 
 [Esimese kohtumise slaidid (Martti)](./slaidid.pdf)
 
-[Google Drive kaust](https://drive.google.com/drive/folders/1IYewYmUa2D0hySiBltMfjPRUuPSjY3dl?usp=sharing)
+## Muud ressursid
+
+- [Google Drive kaust](https://drive.google.com/drive/folders/1IYewYmUa2D0hySiBltMfjPRUuPSjY3dl?usp=sharing)
+- [UX-tööriistade komplekt](https://ux.hk.tlu.ee/)
 
 ## Teemad
 
@@ -15,8 +18,9 @@
   - Tutvumisring
 - Briif, ehk lähteülesanne, selle eesmärk ja sihtrühm
   - [Lähteülesande mall - tehke sellest oma koopia](https://docs.google.com/document/d/1oBPANZUh_7OopLiGAvMskthWwaw_dUIl-MOMmGTfbDI/edit?usp=sharing)
-- Kasutajakogemus ja kasutajakogemuse disaini põhimõtted
-- Persoona, stsenaarium, kasutajateekond
+- Kasutajakogemus ja kasutajakogemuse disaini põhimõtted (Laura slaidid)
+- Persoona, stsenaarium, kasutajateekond (Laura slaidid)
+  - [UX tööriistade komplekt](https://ux.hk.tlu.ee/)
 - [Mis on internet?](../teemad/Internet/about.md)
 - [Mis on veebileht?](../teemad/Veebileht/about.md)
 - [HTML](../teemad/HTML/about.md)
