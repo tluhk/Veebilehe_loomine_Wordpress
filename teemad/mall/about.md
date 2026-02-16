@@ -2,7 +2,7 @@
 
 ## Mis on WordPressi mall?
 
-WordPressis viitavad "mallid" ("templates" inglise keeles) failidele, mis määravad kindlaks, kuidas teie veebisaidi sisu kuvatakse brauseris. Mallid on WordPressi teemade lahutamatu osa ja võimaldavad luua erineva kujundusega postitusi, lehekülgi ja muid sisutüüpe.
+WordPressis viitavad "mallid" ("templates" inglise keeles) failidele, mis määravad kindlaks, kuidas teie veebisaidi sisu veebilehitsejas kuvatakse. Mallid on WordPressi teemade lahutamatu osa ja võimaldavad luua erineva kujundusega postitusi, lehekülgi ja muid sisutüüpe.
 
 **Klassikaliste** teemade puhul on need PHP-failid, mis sisaldavad HTML-i, mallisiltide ja PHP-koodi segu.
 
@@ -18,7 +18,8 @@ Lühidalt on WordPressi mallid viis, kuidas kontrollida, kuidas teie veebisaidi 
 
 ## Malli osad
 
-Malliosa on osa mallist, mis sisaldub mõne teise malli osana, näiteks saidi päises. Malli osa saab manustada mitmesse malli, mis lihtsustab teema loomist. Tavalised malliosad hõlmavad järgmist:
+Malliosa on osa mallist, mis sisaldub mõne teise malli osana, näiteks veebilehe päises. Malli osa saab manustada mitmesse malli, mis lihtsustab teema loomist. Tavalised malliosad hõlmavad järgmist:
+
 - header.php või header.html saidi päise loomiseks
 - footer.php või footer.html jaluse genereerimiseks
 - sidebar.php või sidebar.html külgriba loomiseks

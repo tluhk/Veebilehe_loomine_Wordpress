@@ -4,6 +4,8 @@
 
 [Esimese kohtumise slaidid (Martti)](./slaidid.pdf)
 
+[Teine kohtumine](../teine/README.md)
+
 ## Muud ressursid
 
 - [Google Drive kaust](https://drive.google.com/drive/folders/1IYewYmUa2D0hySiBltMfjPRUuPSjY3dl?usp=sharing)

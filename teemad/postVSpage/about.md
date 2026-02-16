@@ -1,10 +1,12 @@
-# Postitus ja lehekülg
+# Postitus ja leht
 
-Vaikimis on Wordpressis kahte erinevat tüüpi sisu: postitused ja leheküljed. Postitused on ajas muutuvad, leheküljed on aga staatilised. Postitusi kasutatakse näiteks blogi pidamiseks, lehekülgi aga näiteks kontaktinfo, teenuste ja toodete tutvustamiseks.
+Vaikimis on Wordpressis kahte erinevat tüüpi sisu: postitused ja lehed. Postitused on ajas muutuvad, lehed on aga staatilised. Postitusi kasutatakse näiteks blogi pidamiseks, lehti aga näiteks kontaktinfo, teenuste ja toodete tutvustamiseks. Postitusel ja leheküljel on sarnasused ja erinevused, mida käsitleme allpool.
 
 ## Postitus (Post)
 
-1. **Ajalisus**: Postitused on ajastatud ja kuvatakse tavaliselt kronoloogilises järjekorras, kusjuures uusimad postitused ilmuvad esilehel või postituste lehel kõige ees. 
+![Post](post.png)
+
+1. **Ajalisus**: Postitused on ajastatud ja kuvatakse tavaliselt kronoloogilises järjekorras, kusjuures uusimad postitused ilmuvad esilehel või postituste lehel kõige ees.
 
 2. **Kategooriad ja Sildid**: Postitusi saab liigitada kategooriate ja siltide järgi, mis aitavad organiseerida ja kategoriseerida blogi sisu.
 
@@ -16,22 +18,35 @@ Vaikimis on Wordpressis kahte erinevat tüüpi sisu: postitused ja leheküljed. 
 
 6. **Dünaamiline**: Postitusi kasutatakse sageli ajakohase sisu jaoks, näiteks blogipostitused, uudised, pressiteated jne.
 
-## Lehekülg (Page)
+## Leht (Page)
 
-1. **Staatiline sisu**: Leheküljed on mõeldud staatilise sisu jaoks, mis ei muutu sageli. Näiteid on "Kontakt", "Meist", "KKK" jne.
+![Page](page.png)
 
-2. **Hierarhia**: Lehekülgedel on hierarhiline struktuur, mis tähendab, et saate luua alamlehti. Näiteks võib "Teenused" lehekülje all olla alamlehti nagu "Konsultatsioon", "Disain" jne.
+1. **Staatiline sisu**: Lehed on mõeldud staatilise sisu jaoks, mis ei muutu sageli. Näiteid on "Kontakt", "Meist", "KKK" jne.
 
-3. **Ei kuulu kategooriatesse ega siltidesse**: Erinevalt postitustest ei liigitata lehekülgi kategooriate ega siltide alla.
+2. **Hierarhia**: Lehtedel on hierarhiline struktuur, mis tähendab, et saate luua alamlehti. Näiteks võib "Teenused" lehe all olla alamlehti nagu "Konsultatsioon", "Disain" jne.
 
-4. **Kommentaarid**: Vaikimisi ei ole lehekülgedel kommentaaride osa, kuigi seda saab sõltuvalt teemast ja vajadusest lubada.
+3. **Ei kuulu kategooriatesse ega siltidesse**: Erinevalt postitustest ei liigitata lehti kategooriate ega siltide alla.
 
-5. **Ei ole ajastatud**: Lehekülgedel puudub avaldamiskuupäev või aeg, ehkki need on loomulikult dateeritud sisemiselt.
+4. **Kommentaarid**: Vaikimisi ei ole lehtedel kommentaaride osa, kuigi seda saab sõltuvalt teemast ja vajadusest lubada.
 
-6. **Ei kajastu RSS-voogudes**: Leheküljed ei ilmu teie WordPressi saidi RSS-voogu.
+5. **Ei ole ajastatud**: Lehtedel puudub avaldamiskuupäev või aeg, ehkki need on loomulikult dateeritud sisemiselt.
+
+6. **Ei kajastu RSS-voogudes**: Lehed ei ilmu teie WordPressi saidi RSS-voogu.
+
+## Võrdlus
+
+| Omadus                | Postitus (Post) | Leht (Page)    |
+| --------------------- | --------------- | -------------- |
+| Ajalisus              | Jah             | Ei             |
+| Kategooriad ja Sildid | Jah             | Ei             |
+| Kommentaarid          | Jah (vaikimisi) | Ei (vaikimisi) |
+| Arhiiv                | Jah             | Ei             |
+| RSS-voog              | Jah             | Ei             |
+| Hierarhia             | Ei              | Jah            |
 
 ## Kokkuvõtteks
 
 - **Postitused** on dünaamiline sisu, mis on ajastatud ja mõeldud regulaarseks ajakohastamiseks ja interaktsiooniks lugejatega.
-  
-- **Leheküljed** on staatilised ja mõeldud püsivamaks sisuks, mis ei muutu kuigi sageli.
+- **Lehed** on staatilised ja mõeldud püsivamaks sisuks, mis ei muutu kuigi sageli.
+- Lehed võivad sisaldada postitusi, kuid postitused ei saa sisaldada lehti. Valik postituste ja lehtede vahel sõltub teie saidi struktuurist ja sisuvajadustest.
