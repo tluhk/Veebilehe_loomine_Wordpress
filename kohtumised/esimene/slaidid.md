@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: default
-backgroundImage: url('../../../files/HaapsaluK_est.png')
+backgroundImage: url('../../files/HaapsaluK_est.png')
 backgroundPosition: 20px calc(100% - 20px)
 backgroundSize: 250px
 ---
