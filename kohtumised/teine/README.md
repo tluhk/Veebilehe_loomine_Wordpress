@@ -20,7 +20,7 @@
 - Refleksioon
 - Kasutajalood
 - Veebilehe struktuur ja selle kavandamine
-- Kasutjakogemuse disaini reeglid
+- Kasutajakogemuse disaini reeglid
 - Veendume, et kõigil on võimalus Wordpressi kasutada
 - [Wordpressi halduspaneel](../../teemad/halduspaneel/about.md)
 - [Postitus ja lehekülg Wordpressis](../../teemad/postVSpage/about.md)

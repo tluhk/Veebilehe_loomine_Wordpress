@@ -155,3 +155,9 @@ WordPressi teemad jagunevad kahte kategooriasse: klassikalised teemad ja plokip�
 Plokipõhised teemad on loodud spetsiaalselt selleks, et kasutada ära WordPressi plokkide võimsust ja paindlikkust. Plokipõhised teemad võimaldavad teil luua kohandatud paigutusi ja kujundusi, kasutades ainult plokke, mis on WordPressi sisseehitatud sisuelemendid.
 
 ---
+
+## Plokipõhised teemad
+
+Selle koolituse käigus kasutame ja loome plokipõhiseid teemasid, kuna need on suurepärased neile, kes soovivad luua kohandatud veebisaidi ilma koodi kirjutamata. Plokipõhised teemad võimaldavad teil keskenduda veebisaidi kujundusele ja funktsionaalsusele, kasutades ainult plokke, mis on WordPressi sisseehitatud sisuelemendid.
+
+---
