@@ -24,8 +24,3 @@
 - Veendume, et kõigil on võimalus Wordpressi kasutada
 - [Wordpressi halduspaneel](../../teemad/halduspaneel/about.md)
 - [Postitus ja lehekülg Wordpressis](../../teemad/postVSpage/about.md)
-- [Mallid ja mallimustrid](../../teemad/mall/about.md)
-- [Kuidas WP otsustab, millist malli kasutada? - WP dokumentatsioon](https://i0.wp.com/developer.wordpress.org/files/2014/10/Screenshot-2019-01-23-00.20.04.png)
-- [Kuidas WP otsustab, millist malli kasutada? - Miro](https://miro.com/app/board/uXjVOzhaWy4=/)
-- [Plokid ja plokimustrid](../../teemad/plokid/about.md)
-- [Teemad](../../teemad/teema/about.md)
