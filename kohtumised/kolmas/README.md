@@ -4,6 +4,8 @@
 
 [Teine kohtumine](../teine/README.md)
 
+[Kohtumise Teamsi link](https://teams.microsoft.com/meet/3887738234381?p=8nSC6IjBzHbas7xPtv)
+
 [Kolmanda kohtumise slaidid (Laura)](https://docs.google.com/presentation/d/1MScb0sHfGwQ_BiDY5HYT-P8nsosnWNYkLzyr9HLEK64)
 
 [Kolmanda kohtumise slaidid (Martti)](./slaidid.pdf)
@@ -28,6 +30,8 @@
 - [Kuidas WP otsustab, millist malli kasutada? - Miro](https://miro.com/app/board/uXjVOzhaWy4=/)
 - [Plokid ja plokimustrid](../../teemad/plokid/about.md)
 - [Teemad](../../teemad/teema/about.md)
+- Veebilehe struktuur
+- Prototüüpimine
 
 ## Lisamaterjale
 
