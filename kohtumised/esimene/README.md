@@ -12,6 +12,7 @@
 - [UX-tööriistade komplekt](https://ux.hk.tlu.ee/)
 - [This person does not exists pildigeneraator](https://this-person-does-not-exist.com/en)
 - [Tasuta majutusteenus https://byet.host/](https://byet.host/)
+- [docker-compose.yml faili näidis Wordpressi arenduskeskkonna jaoks](./docker-compose.yml)
 
 ## Teemad
 
