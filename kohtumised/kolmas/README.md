@@ -2,13 +2,13 @@
 
 # Kasutajakeskse WordPress-veebilehe kavandamine ja ülesehitus
 
-[Esimene kohtumine](../teine/README.md)
+[Teine kohtumine](../teine/README.md)
 
-[Teise kohtumise slaidid (Laura)](https://docs.google.com/presentation/d/1MScb0sHfGwQ_BiDY5HYT-P8nsosnWNYkLzyr9HLEK64)
+[Kolmanda kohtumise slaidid (Laura)](https://docs.google.com/presentation/d/1MScb0sHfGwQ_BiDY5HYT-P8nsosnWNYkLzyr9HLEK64)
 
-[Teise kohtumise slaidid (Martti)](./slaidid.pdf)
+[Kolmanda kohtumise slaidid (Martti)](./slaidid.pdf)
 
-[Kolmas kohtumine](../neljas/README.md)
+[Neljas kohtumine](../neljas/README.md)
 
 ## Muud ressursid
 
