@@ -15,16 +15,33 @@ Laura Hein, Martti Raavel
 ## Kolmas kohtumine
 
 - Wordpressi halduspaneel
+- Teemad
 - Mallid
 - Kuidas WP otsustab, millist malli kasutada?
 - Plokid ja plokimustrid
-- Teemad
 
 ---
 
 ## Wordpressi halduspaneeli kasutajaliides
 
 ![height:450](admin-panel.png)
+
+---
+
+## Klassikalised teemad vs plokipõhised teemad
+
+WordPressi teemad jagunevad kahte kategooriasse: klassikalised teemad ja plokipõhised teemad.
+
+- Klassikalised teemad on traditsioonilised WordPressi teemad, mis kasutavad PHP-d ja HTML-i veebisaidi kujundamiseks.
+- Plokipõhised teemad, mida nimetatakse ka plokiteemadeks, on uusim teematüüp, mis kasutab ainult HTML-i ja CSS-i, ilma PHP-ta.
+
+Plokipõhised teemad on loodud spetsiaalselt selleks, et kasutada ära WordPressi plokkide võimsust ja paindlikkust. Plokipõhised teemad võimaldavad teil luua kohandatud paigutusi ja kujundusi, kasutades ainult plokke, mis on WordPressi sisseehitatud sisuelemendid.
+
+---
+
+## Plokipõhised teemad
+
+Selle koolituse käigus kasutame ja loome plokipõhiseid teemasid, kuna need on suurepärased neile, kes soovivad luua kohandatud veebisaidi ilma koodi kirjutamata. Plokipõhised teemad võimaldavad teil keskenduda veebisaidi kujundusele ja funktsionaalsusele, kasutades ainult plokke, mis on WordPressi sisseehitatud sisuelemendid.
 
 ---
 
@@ -89,22 +106,5 @@ Plokimustrid on eelnevalt kujundatud plokkide kogumid, mida saab kasutada kogu v
 ## Teemad
 
 WordPressi teemad on mallide komplekt, mis muudab veebisaidi kujundust, sealhulgas sageli seda, kuidas mingid elemendid veebilehel asetsevad. Teema muutmine muudab seda, kuidas veebisait välja näeb, st millisena näeb seda veebisadid külastaja. WordPress.org-i teemakataloogis on tuhandeid tasuta WordPressi teemasid, kuigi paljud WordPressi saidid kasutavad kohandatud teemasid.
-
----
-
-## Klassikalised teemad vs plokipõhised teemad
-
-WordPressi teemad jagunevad kahte kategooriasse: klassikalised teemad ja plokipõhised teemad.
-
-- Klassikalised teemad on traditsioonilised WordPressi teemad, mis kasutavad PHP-d ja HTML-i veebisaidi kujundamiseks.
-- Plokipõhised teemad, mida nimetatakse ka plokiteemadeks, on uusim teematüüp, mis kasutab ainult HTML-i ja CSS-i, ilma PHP-ta.
-
-Plokipõhised teemad on loodud spetsiaalselt selleks, et kasutada ära WordPressi plokkide võimsust ja paindlikkust. Plokipõhised teemad võimaldavad teil luua kohandatud paigutusi ja kujundusi, kasutades ainult plokke, mis on WordPressi sisseehitatud sisuelemendid.
-
----
-
-## Plokipõhised teemad
-
-Selle koolituse käigus kasutame ja loome plokipõhiseid teemasid, kuna need on suurepärased neile, kes soovivad luua kohandatud veebisaidi ilma koodi kirjutamata. Plokipõhised teemad võimaldavad teil keskenduda veebisaidi kujundusele ja funktsionaalsusele, kasutades ainult plokke, mis on WordPressi sisseehitatud sisuelemendid.
 
 ---

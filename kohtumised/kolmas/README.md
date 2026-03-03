@@ -18,6 +18,7 @@
 - [UX-tööriistade komplekt](https://ux.hk.tlu.ee/)
 - [This person does not exists pildigeneraator](https://this-person-does-not-exist.com/en)
 - [Tasuta majutusteenus https://byet.host/](https://byet.host/)
+- [Eestikeelne Lorem Ipsumi generaator](https://brand.estonia.ee/disainisysteem/ekraanigraafika-ja-trukk/eesti-ipsum/?paras=5&type=Eesti+ipsum&start-with-lorem=1)
 
 ## Teemad
 
@@ -25,11 +26,11 @@
 - Kasutajakogemuse disaini reeglid
 - Veendume, et kõigil on võimalus Wordpressi kasutada
 - [Wordpressi halduspaneel](../../teemad/halduspaneel/about.md)
+- [Teemad](../../teemad/teema/about.md)
 - [Mallid ja malli osad](../../teemad/mall/about.md)
 - [Kuidas WP otsustab, millist malli kasutada? - WP dokumentatsioon](https://i0.wp.com/developer.wordpress.org/files/2014/10/Screenshot-2019-01-23-00.20.04.png)
 - [Kuidas WP otsustab, millist malli kasutada? - Miro](https://miro.com/app/board/uXjVOzhaWy4=/)
 - [Plokid ja plokimustrid](../../teemad/plokid/about.md)
-- [Teemad](../../teemad/teema/about.md)
 - Veebilehe struktuur
 - Prototüüpimine
 
