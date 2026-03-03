@@ -10,6 +10,10 @@
 
 [Kolmanda kohtumise slaidid (Martti)](./slaidid.pdf)
 
+[Kolmanda loengu salvestuse esimene pool](https://hktluee-my.sharepoint.com/:v:/g/personal/mrt_hk_tlu_ee/IQCUAI5vCE6dTbQbXUaxBI-3AY7sUQqS3FLNaSAkbMFYdug?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Wu7JpF)
+
+[Kolmanda loengu salvestuse teine pool](https://hktluee-my.sharepoint.com/:v:/g/personal/mrt_hk_tlu_ee/IQB-KoUmQY3oQJaA2qgE7FdwAeqNG0WhjpOqI1EKY6dOz7E?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vd4dfZ)
+
 [Neljas kohtumine](../neljas/README.md)
 
 ## Muud ressursid
