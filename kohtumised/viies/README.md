@@ -41,3 +41,17 @@
 - [Wordpressi sisu ja mallide omavaheline seos](https://www.youtube.com/watch?v=fq5XM90Tu0g)
 - [**Wordpressi lehekülje tegemine koos mallide muutmisega**](https://www.youtube.com/watch?v=Htvvvfm5afA)
 - [**Videotes ja loengus kasutatud Whiteboardi link**](https://miro.com/app/board/uXjVOzhaWy4=/)
+
+## Loengus küsitud funktsionaalsused
+
+- [Kleepuv päis](../../teemad/sticky/README.md)
+- [Kleepuva päise kohta Wordpressi salvestus](https://learn.wordpress.org/lesson/adding-a-sticky-header-or-banner/)
+- Milliseid TI tööriistu kasutada veebilehe disainimisel? Paar tükki, mis esimese hooga leidsin:
+  - [Figma make](https://www.figma.com/make/)
+  - [Stich](https://stitch.withgoogle.com/)
+
+## Praktilised pistikprogrammid
+
+- [Under construction](https://wordpress.org/plugins/under-construction-page/)
+- [Create Block Theme (teema koopia tegemiseks)](https://wordpress.org/plugins/create-block-theme/)
+- [UpdraftPlus: WP Backup & Migration (varukoopiate tegemiseks)](https://wordpress.org/plugins/updraftplus/)
