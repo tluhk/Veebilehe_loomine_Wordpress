@@ -54,5 +54,3 @@ Välimus → Redaktor → Stiilid → Additional CSS
 Ja siis lisame selle klassi komponendile, millele soovime ümarad nurgad teha.
 
 ![bg right](image.png)
-
----
