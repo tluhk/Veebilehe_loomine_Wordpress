@@ -25,12 +25,16 @@
 
 ## Teemad
 
+- Praktilised harjutused
+- Iseseisev töö oma veebilehega
 - Saidi stiilid
   - Tüpograafia
   - Värvid
   - Taust
   - Varjud
   - Paigutus
+- CSS-i lisamine Wordpressi lehele
+- Veel mallidest
 
 ## Lisamaterjale
 

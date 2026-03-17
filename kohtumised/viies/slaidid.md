@@ -14,7 +14,7 @@ Laura Hein, Martti Raavel
 
 ## Viies kohtumine
 
-- Praktilised hatjutused
+- Praktilised harjutused
 - Iseseisev töö oma veebilehega
 - Saidi stiilid
   - Tüpograafia
