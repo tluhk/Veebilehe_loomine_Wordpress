@@ -8,9 +8,7 @@
 
 [Viienda kohtumise slaidid (Laura)](https://docs.google.com/presentation/d/1q3sPlCUotSq48xuzXLOI4tcShyNgITluxdnPqwLjvhk)
 
-[Viienda kohtumise esimese poole salvestus]()
-
-[Viienda kohtumise teise poole salvestus]()
+[Viienda kohtumise salvestus](https://hktluee-my.sharepoint.com/:v:/g/personal/mrt_hk_tlu_ee/IQA3kVMSCHqtQ4K131N3WOqJASBoJiCwKd4r4_uXjk2uh9A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=AEp92F)
 
 [Kuues kohtumine](../viies/README.md)
 
