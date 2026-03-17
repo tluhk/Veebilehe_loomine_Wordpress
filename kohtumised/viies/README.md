@@ -37,5 +37,3 @@
 - [Wordpressi sisu ja mallide omavaheline seos](https://www.youtube.com/watch?v=fq5XM90Tu0g)
 - [**Wordpressi lehekülje tegemine koos mallide muutmisega**](https://www.youtube.com/watch?v=Htvvvfm5afA)
 - [**Videotes ja loengus kasutatud Whiteboardi link**](https://miro.com/app/board/uXjVOzhaWy4=/)
-
-## Veel natukene mallide loogikast
