@@ -51,7 +51,6 @@
 
 - [Under construction](https://wordpress.org/plugins/under-construction-page/)
 - [Create Block Theme (teema koopia tegemiseks)](https://wordpress.org/plugins/create-block-theme/)
-- [UpdraftPlus: WP Backup & Migration (varukoopiate tegemiseks)](https://wordpress.org/plugins/updraftplus/)
 - [SEO ehk veebilehe optimeerimine otsingumootori jaoks](../../teemad/SEO/about.md)
 - [Yoast](https://yoast.com/wordpress/plugins/seo/) - plugin, mis aitab optimeerida veebisaiti otsingumootorite jaoks, pakkudes SEO nõuandeid ja funktsioone.
 - [Rank Math SEO](https://rankmath.com/) - Struktureeritud andmete abil saate hõlpsalt kohandada olulisi SEO sätteid, juhtida, millised lehed on indekseeritavad ja kuidas soovite, et teie veebisait otsingus kuvataks.
