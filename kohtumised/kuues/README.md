@@ -4,7 +4,7 @@
 
 [Kuuenda kohtumise slaidid (Martti)](./slaidid.pdf)
 
-[Viienda kohtumise slaidid (Laura)](https://docs.google.com/presentation/d/1q3sPlCUotSq48xuzXLOI4tcShyNgITluxdnPqwLjvhk)
+[Viienda kohtumise slaidid (Laura)](https://docs.google.com/presentation/d/1NYPxflY8F5F0LoeFOJL8HXIm5gMyLysdxpSVEX5oRzw)
 
 [Kuuenda kohtumise salvestus]()
 
