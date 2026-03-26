@@ -4,9 +4,11 @@
 
 [Kuuenda kohtumise slaidid (Martti)](./slaidid.pdf)
 
-[Viienda kohtumise slaidid (Laura)](https://docs.google.com/presentation/d/1NYPxflY8F5F0LoeFOJL8HXIm5gMyLysdxpSVEX5oRzw)
+[Kuuenda kohtumise slaidid (Laura)](https://docs.google.com/presentation/d/1NYPxflY8F5F0LoeFOJL8HXIm5gMyLysdxpSVEX5oRzw)
 
-[Kuuenda kohtumise salvestus]()
+[Kuuenda kohtumise salvestuse esimene osa](https://hktluee-my.sharepoint.com/:v:/g/personal/mrt_hk_tlu_ee/IQDjz0TOyYOeSLM7GL0RHc7TAUOZaeHh_lTsaFrLe2knu_E?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6uxJ6F)
+[Kuuenda kohtumise salvestuse teine osa](https://hktluee-my.sharepoint.com/:v:/g/personal/mrt_hk_tlu_ee/IQD3dn7YP_QzSpjfEA9F5C_yAc0fVGDXAuNIdIe_qhICu_8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=EcMBE6)
+[Kuuenda kohtumise salvestuse kolmas osa](https://hktluee-my.sharepoint.com/:v:/g/personal/mrt_hk_tlu_ee/IQAu7XyeRKp-RbLJiRTjd7PZAT5OfyEPj2FnW6T7bQOUsPc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SheVZT)
 
 [Seitsmes kohtumine](../seitsmes/README.md)
 
