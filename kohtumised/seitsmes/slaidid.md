@@ -15,8 +15,9 @@ Laura Hein, Martti Raavel
 ## Kuues kohtumine
 
 - Vahepeal tekkinud küsimused
+- Kasulikud pistikprogrammid 1
 - Iseseisev töö oma veebilehega
-- Kasulikud pistikprogrammid
+- Kasulikud pistikprogrammid 2
 - Veebilehe hooldus ja varundamine
 - Veebilehe eksport ja import
 

@@ -4,8 +4,8 @@
 
 [Seitsmenda kohtumise slaidid (Martti)](./slaidid.pdf)
 
-[Seitsmenda kohtumise salvestuse esimene osa]()
-[Seitsmenda kohtumise salvestuse teine osa]()
+[Seitsmenda kohtumise salvestuse esimene osa](https://hktluee-my.sharepoint.com/:v:/g/personal/mrt_hk_tlu_ee/IQA5OQ3fg1LgT6JP4JiKqg8nAZoU0Bll4jCAYnX7zDXAMjQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=BDlXTz)
+[Seitsmenda kohtumise salvestuse teine osa](https://hktluee-my.sharepoint.com/:v:/g/personal/mrt_hk_tlu_ee/IQCRszEhYGg4Sqc1VFfkCbgzAZBtLzz-iXWObw2a2DgOHsA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ioQD8J)
 
 [Kaheksas kohtumine](../kaheksas/README.md)
 
