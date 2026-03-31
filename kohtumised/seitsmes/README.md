@@ -2,6 +2,8 @@
 
 [Kuues kohtumine](../kuues/README.md)
 
+[Seitsmenda kohtumise slaidid (Martti)](./slaidid.pdf)
+
 [Seitsmenda kohtumise salvestuse esimene osa]()
 [Seitsmenda kohtumise salvestuse teine osa]()
 
@@ -59,7 +61,7 @@
 - [Polylang](https://polylang.pro/) - võimaldab luua ja hallata mitmekeelseid veebisaite, toetades erinevaid keeli ja tõlkeid.
 - [Woocommerce](https://woocommerce.com/) - paindlik ja laialt levinud e-kaubanduse lahendus WordPressi jaoks, mis võimaldab kasutajatel luua ja hallata veebipoode.
 - [UpdraftPlus](https://updraftplus.com/) - plugin, mis võimaldab automaatseid varundusi ja taastamist, aidates kindlustada veebisaidi andmeid ja sisu.
-- [WPForms](https://wpforms.com/) - intuitiivne drag-and-drop vormide loomise plugin WordPressi jaoks, mis võimaldab kasutajatel lihtsasti luua kontaktivorme, küsitlusi, tellimisvorme ja muid interaktiivseid vorme.
+- [Forminator](https://wordpress.org/plugins/forminator/) - intuitiivne drag-and-drop vormide loomise plugin WordPressi jaoks, mis võimaldab kasutajatel lihtsasti luua kontaktivorme, küsitlusi, tellimisvorme ja muid interaktiivseid vorme.
 - [WP Maintenance Mode](https://wordpress.org/plugins/wp-maintenance/) - võimaldab ajutiselt asetada veebisaidi hooldusrežiimi, näidates külastajatele teadet või kohandatud lehte.
 - [Use Any Font](https://wordpress.org/plugins/fonto/) - plugin, mis võimaldab kasutajatel laadida ja kasutada kohandatud fonte oma veebisaidil ilma koodi kirjutamise vajaduseta (tasuta lubab kasutada üht fonti).
 - [WP Rocket](https://wp-rocket.me/) - WordPressi jõudlusplugin, mis pakub lehe vahemälu, optimeerimise ja muid kiirendamise funktsioone, et parandada veebisaidi laadimiskiirust ja üldist jõudlust.
