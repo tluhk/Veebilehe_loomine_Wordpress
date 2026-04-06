@@ -12,7 +12,7 @@ Laura Hein, Martti Raavel
 
 ---
 
-## Kuues kohtumine
+## Seitsmes kohtumine
 
 - Vahepeal tekkinud küsimused
 - Kasulikud pistikprogrammid 1
