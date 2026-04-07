@@ -3,6 +3,7 @@
 [Seitsmes kohtumine](../kuues/README.md)
 
 [Kaheksanda kohtumise slaidid (Martti)](./slaidid.pdf)
+
 [Kaheksanda kohtumise slaidid (Laura)](https://docs.google.com/presentation/d/1ess4uZvyqMi36NZlQMWXDH6x3GyXgyp2DHhLDdkCLSc)
 
 [Kaheksanda kohtumise salvestuse esimene osa]()
