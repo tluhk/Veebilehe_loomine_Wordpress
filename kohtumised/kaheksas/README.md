@@ -6,8 +6,11 @@
 
 [Kaheksanda kohtumise slaidid (Laura)](https://docs.google.com/presentation/d/1ess4uZvyqMi36NZlQMWXDH6x3GyXgyp2DHhLDdkCLSc)
 
-[Kaheksanda kohtumise salvestuse esimene osa]()
-[Kaheksanda kohtumise salvestuse teine osa]()
+[Kaheksanda kohtumise salvestuse esimene osa](https://hktluee-my.sharepoint.com/:v:/g/personal/mrt_hk_tlu_ee/IQBgKoK8szxlTYFSO1zjbJOKAW_cpG8-gtRVewSn8MJBbtE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ECxZKT)
+
+[Kaheksanda kohtumise salvestuse teine osa](https://hktluee-my.sharepoint.com/:v:/g/personal/mrt_hk_tlu_ee/IQDsyYf0KqNkT4SdXUPwZpycAanZo7kB6wJDAv0ozsfXMeY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4cNIBZ)
+
+[Kaheksanda kohtumise salvestuse kolmas osa](https://hktluee-my.sharepoint.com/:v:/g/personal/mrt_hk_tlu_ee/IQCSKgKbdkZ7SoJdzK-524x2AS7ZTXuuIMM_mNufTcGNOsw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=q6uOkp)
 
 ## Muud ressursid
 
